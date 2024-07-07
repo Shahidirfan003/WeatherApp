@@ -1,0 +1,17 @@
+.main{
+    min-height:100vh;
+}
+.horizontal{
+  background-color: rgba(255, 255, 255, 0.386);
+    height:100%;
+    overflow: hidden;
+    border-radius: 4rem;
+}
+.columnOne{
+  background-color: white;
+  height:100%;
+  padding:3rem 2rem;
+}
+.columnTwo{
+  padding:3rem 3rem;
+}
